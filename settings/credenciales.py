@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://max:max@0.0.0.0:5432/max'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
